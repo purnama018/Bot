@@ -119,13 +119,13 @@ global.useMulti = true
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '2023 © Kisuke Botz'
+global.wm = '2023 © Purymz Botz'
 global.wm2 = 'Purymz Botz Rpg PlayGround'
 global.bottime = `Time: ${wktuwib}`
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
 global.author = 'Purymz Botz' 
-global.packname = 'Kisuke Botz\n\nOwner: 0851-7431-0482'
+global.packname = 'Purymz Botz\n\nOwner: 0857-2496-6314'
 global.danied = '✘ 𝗘𝗥𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'kepo'
 global.nomorown = '6285724966314'
